@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian faith of the people of God, called in scorn, Quakers in Rhode-Island (who are in unity with all faithfull brethren of the same profession in all parts of the world) vindicated from the calumnies of Christian Lodowick, that formerly was of that profession, but is lately fallen there-from. As also from the base forgeries, and wicked slanders of Cotton Mather, called a minister, at Boston, who hath greatly commended the said Christian Lodowick, and approved his false charges against us, and hath added thereunto many gross, impudent and vile calumnies against us and our brethren, in his late address, so called, to some in New-England, the which in due time may receive a more full answer, to discover his ignorance, prejudice and perversion against our friends in general, and G.K. in particular, whom he hath most unworthily abused. : To which is added, some testimonies of our antient friends to the true Christ of God; collected out of their printed books, for the further convincing of our opposers, that it is (and hath been) our constant and firm belief to expect salvation by the man Christ Jesus that was outwardly crucified without the gates of Jerusalem.</title>
+            <author>Keith, George, 1639?-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87653</idno>
+            <idno type="STC">Wing K151</idno>
+            <idno type="STC">ESTC W9990</idno>
+            <idno type="EEBO-CITATION">45097812</idno>
+            <idno type="OCLC">ocm 45097812</idno>
+            <idno type="VID">171396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171396)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian faith of the people of God, called in scorn, Quakers in Rhode-Island (who are in unity with all faithfull brethren of the same profession in all parts of the world) vindicated from the calumnies of Christian Lodowick, that formerly was of that profession, but is lately fallen there-from. As also from the base forgeries, and wicked slanders of Cotton Mather, called a minister, at Boston, who hath greatly commended the said Christian Lodowick, and approved his false charges against us, and hath added thereunto many gross, impudent and vile calumnies against us and our brethren, in his late address, so called, to some in New-England, the which in due time may receive a more full answer, to discover his ignorance, prejudice and perversion against our friends in general, and G.K. in particular, whom he hath most unworthily abused. : To which is added, some testimonies of our antient friends to the true Christ of God; collected out of their printed books, for the further convincing of our opposers, that it is (and hath been) our constant and firm belief to expect salvation by the man Christ Jesus that was outwardly crucified without the gates of Jerusalem.</title>
+                  <author>Keith, George, 1639?-1716.</author>
+                  <author>Bradford, William, 1663-1752.</author>
+                  <author>Thurstan, Edward.</author>
+                  <author>Bull, Henry.</author>
+                  <author>Bull, Anne.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by William Bradford at Philadelphia in Pennsylvania,</publisher>
+                  <pubPlace>[Philadephia] :</pubPlace>
+                  <date>in the year 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Keith by Wing.</note>
+                  <note>Page 8 signed: Edward Thurstan, Henry Bull, Anne Bull ... [et al.].</note>
+                  <note>Page 16 signed: Will. Bradford.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ludovici, C. --  (Christian), 1660-1728.</term>
+               <term>Mather, Cotton, 1663-1728.</term>
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171396:1" rendition="simple:additions"/>
+            <pb facs="tcp:171396:1"/>
+            <pb facs="tcp:171396:2" rendition="simple:additions"/>
+            <pb facs="tcp:171396:2" rendition="simple:additions"/>
+            <p>THE <hi>Chriſtian Faith</hi> Of the People of GOD, called in Scorn, QUAKERS In <hi>Rhode-Iſland</hi> (who are in Unity with all faithfull Brethren of the ſame Profeſſion in all parts of the World) VINDICATED From the Calumnies of <hi>Chriſtian Lodowick,</hi> that formerly was of that Profeſſion, but is lately fallen there-from.</p>
+            <p>As alſo from the baſe Forgeries, and wicked Slanders of <hi>Cotton Mather,</hi> called a Miniſter, at <hi>Boston,</hi> who hath greatly commended the ſaid <hi>Chriſtian Lodowick,</hi> and approved his falſe Charges againſt us, and hath added thereunto many groſs, impudent and vile Calumnies againſt us and our Brethren, in his late <hi>Addreſs,</hi> ſo called, to ſome in <hi>New-England,</hi> the which in due time may receive a mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e full anſwer, to diſcover his Igno<g ref="char:EOLhyphen"/>rance, Prejudice and Perverſion againſt our Friends in gene<g ref="char:EOLhyphen"/>ral, and <hi>G. K.</hi> in particular, whom he hath moſt unworthily abuſed.</p>
+            <p>To which is added, ſome Teſtimonies of our Antient Friends to the true Chriſt of God; Collected out of their print<g ref="char:EOLhyphen"/>ed Books, for the further Convincing of our Oppoſers, that it is (and hath been) our conſtant and firm Belief to expect Salva<g ref="char:EOLhyphen"/>tion by the Man Chriſt Jeſus that was outwardly crucified without the Gates of <hi>Jeruſalem.</hi>
+            </p>
+            <p>Printed and Sold by <hi>William Bradford</hi> at <hi>Philadelphia</hi> in <hi>Pennſyl<g ref="char:EOLhyphen"/>vania,</hi> in the Year 1692.</p>
+         </div>
+         <div type="articles_of_belief">
+            <pb facs="tcp:171396:3"/>
+            <head>Our Sincere Chriſtian Belief is plainly aſſerted in the following Particulars, <hi>viz.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>1.</hi> Concerning Jeſus of Nazareth the true Chriſt of God, as he is True and Perfect God, and True &amp; Perfect Man.</item>
+               <item>
+                  <hi>2.</hi> Concerning his Conception, Birth, Life, Death and Sufferings, Reſurrection, Aſcention, Interceſſion, and Coming again and Appearance to Judge the Quick and the Dead at the Day of Judgment in his glorified Body. And the Reſurrection of the Dead, at what Time attained.</item>
+               <item>
+                  <hi>3.</hi> Concerning his being a moſt acceptible Offering and Sacrifice to God for the ſins of the whole World.</item>
+               <item>
+                  <hi>4.</hi> Concerning the True Faith in Chriſt, how it reſpecteth him both as without us in the Fullneſs, and as within us in the Meaſure, whole &amp; undivided, being one Lord Jeſus Chriſt.</item>
+               <item>
+                  <hi>5.</hi> Concerning the Diſtinction betwixt the devout <hi>Gentile</hi> and <hi>Chriſtian,</hi> and how the Chriſtian Diſpenſation far excelleth that of either Jews or Gentiles, and the Dignity of <hi>Chriſtianity</hi> above the most Refined and Devout <hi>Gentiliſm.</hi>
+               </item>
+               <item>
+                  <hi>6.</hi> Concerning a twofold inward Miniſtration of the Light and Spirit of God and Chriſt, and the ſtate of Servants and Sons.</item>
+               <item>
+                  <hi>7.</hi> Concerning the great Benefit of the holy Scriptures, and how they are made Inſtrumental to our Chriſtian Faith and Knowledge.</item>
+               <item>
+                  <hi>8.</hi> And laſtly, Concerning the Poſſibility of the Salvation of Honeſt and Conſcientious <hi>Gentiles</hi> by Jeſus Christ.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:171396:3" rendition="simple:additions"/>
+            <head>The <hi>Chriſtian Faith</hi> of the People of God called <hi>Quakers,</hi> Vindicated from the Calumnies of <hi>Chriſtian Lodowick.</hi>
+            </head>
+            <p>WHereas <hi>Chriſtian Lodowick</hi> hath given forth ſeveral Papers, Challenging all theſe belonging to <hi>Newport</hi> Meeting, who ſpeak in the Meetings of the People called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> and that within theſe few dayes paſt he hath renewed his Challenge, accuſing the <hi>Fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndation of their Goſpel, Faith, Doctrine and Religion, to be unſcriptural, falſe and naught, ſhaken and Sandy,</hi> and challanging them to appoint one of their Number to diſpute with him.</p>
+            <p>Theſe are to give Notice to all ſober People and Neighbours, that theſe ſo challenged by him, having taken his Challenge into conſideration, and finding many things in it falſly and perverſly ſtated, which they could not own, (ſo ſtated by him) to be the Foundation of their Faith, <hi>&amp;c.</hi> did meet with him at the Houſe of <hi>Walter Clark</hi> in <hi>Newport</hi> in <hi>Rhode-Iſland,</hi> the 18th of the 4th Month, 1691. in order to have things fairly ſtated, that if any did diſpute with him, they might know before hand, what he was to diſpute againſt, but they could not procure him to allow of this; but after that ſome of the things, charged by him in his Papers, began to be diſcourſed of, in order to a fair and right ſtating of them, he would not hear of it, but went away.</p>
+            <p>And whereas divers of us challenged by him, declared ſincerely before many People there aſſembled on the ſaid day, their ſincere Faith as concerning the <hi>Lord Jeſus Christ of Nazareth,</hi> and what the holy Scriptures teſtifie of him, yet he did continue to accuſe them ſtill, as <hi>Denying the True Christ,</hi> alledging, <hi>they had another S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce than the Scripture words did bear, and that his Sence was True, but their Sence was Falſe, appealing to their Conſciences whether it was not ſo:</hi> Thus making himſelf Judge over our ſecret Thoughts, as having a ſecret ſence in our Thoughts of Scripture words, con<g ref="char:EOLhyphen"/>trary
+<pb n="4" facs="tcp:171396:4" rendition="simple:additions"/> to the true ſence of them, though we have not given him, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any other, occaſion to judge ſo raſhly and uncharitably of us; and our Conſciences bear us witneſs, in the ſight of God, that we do ſincerely believe and think as we ſpeak, when we ſay, according to the holy Scripture, That <hi>Jeſus of Nazareth</hi> is the true Chriſt of God, and the only true Saviour, and there is no other Name given under Heaven, whereby men muſt be ſaved; and that this ſame Jeſus was in fullneſs of Time born of the Virgin, called <hi>Mary,</hi> being conceived of the holy Ghoſt, who dyed for our ſins, and roſe again for our Juſtification; and by his Death on the Tree of the Croſs, was a moſt acceptable Offering and Sacrifice to God for the ſins of the whole World, having taſted Death for every m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and given himſelf a Ranſom for all. And we believe, that Chriſt was God manifeſt in the Fleſh, even in that Body of Fleſh in which he did ſuffer Death on the Croſs, and that the fullneſs of the Godhead dwelt Bodily in him, and doth ſtill dwell Bodily in him, and that of his Fullneſs we all receive, and Grace for Grace. And we alſo believe, according to holy Scripture, that Chriſt's Body that was crucified on the Tree of the Croſs, was raiſed again on the third day, and after forty dayes did aſcend into Heaven in the ſight of the Diſciples, and who is exalted at the right Hand of God, and ever liveth to make Interceſſion for us, and that Chriſt hath his Body in Heaven a moſt glorious Body, not changed in Being or Subſtance, but in Condition &amp; Manner of Being; and that Chriſt is true and perfect God, and true and perfect Man, the Son of God, begotten of God from Everlaſting, glorified with the Father before the World began, and alſo begotten of God in the Womb of the Virgin, called <hi>Mary,</hi> and born of her in the fullneſs of time, the Son of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> the Son of <hi>David,</hi> who took not on him the Nature of A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gels, but the Seed of <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raham,</hi> and which he ſtill hath; and that Chriſt, as Man, hath both Soul and Body, and his Manhood is moſt excellently and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fully United with h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Godhead, yet his Manhood is not his Godhead, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is his Body that he had of the Virgin, and now ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h in Heaven, his Godhead, but the Temple of it, as Chriſt called his Body the Temple, and is the Garment or Cloathing wherewith the Eternal Word did cloathe himſelf, who is that New and living Way that he hath conſecrated for us, through the Vail, that is to ſay his fle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h.</p>
+            <p>And we believe, That God the Father hath appointed the
+<pb n="5" facs="tcp:171396:4" rendition="simple:additions"/> Man Chriſt Jeſus to be the Judge of the Quick and the Dead, and that he is to come to Judge all Mankind, and that his Coming ſo to Judge all Mankind with the great and laſt Judgment is at the end of the World, the which End of the World we do believe is not come, either within us or without us, as he doth falſly charge; for the End of the World, as the Scripture declareth, it is the end of the Ages or Times of this World; for the Times and Ages of this World ſhall have an End; and God hath ap<g ref="char:EOLhyphen"/>pointed a Day wherein he will judge the World in Righteouſneſs by that Man Chriſt Jeſus, whom he hath ordained, but of that Day and Hour knoweth no Man, as Chriſt hath declared, that all might be watchful</p>
+            <p>And becauſe, according to Scripture Teſtimony, we do faith<g ref="char:EOLhyphen"/>fully believe, that Chriſt hath alſo inwardly and ſpiritually ap<g ref="char:EOLhyphen"/>peared in the Hearts of men, and that all true Chriſtians do believe and own his inward Appearance and Revelation in them, as he is the Word, Light and Life in them, in various Meaſures and Degrees of divine Revelation, and that he is the true Light that lighteth every man that cometh into the World, and that we Teſtifie that all ſhould turn to his Light in them, that convinceth of ſin, and ſhould believe in it, and obey and follow it, and that all who ſo do, will be led in due time to believe in him in whom the Fullneſs is, and to receive the benefit of Chriſts Death and Reſurrection in the outward, therefore hath this Accuſer joyned with <hi>Thomas Hicks,</hi> a <hi>Baptist</hi> Teacher at <hi>London,</hi> and <hi>John Faldo,</hi> an <hi>Independent</hi> Teacher, and divers others, to accuſe us, as <hi>Deny<g ref="char:EOLhyphen"/>ing the True Chriſt,</hi> becauſe we believe and confeſs to Chriſt's inward and Outward Coming and Appearance, as if to believe and con<g ref="char:EOLhyphen"/>feſs to Chriſt's Inward Coming and Appearance, were to deny his Outward, or to hold forth two Chriſts, which is but their great Ignorance and Unbelief, and no juſt Conſequence of our Principle for the true Chriſt of G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d is One, and the true Chriſtians Faith; receiveth and imbrace<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h him whole and undivided, and owneth his inward and outward Coming, who, as he did come without us in a ſtate of Humiliation to ſuffe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and is riſen and aſcended into Heaven, ſo he will come again without us to Judge the Quick and the Dead, and all Mankind ſhall ſtand before him, the Sheep on his Right Hand, and the Goats on his Left. And there ſhall
+<pb n="6" facs="tcp:171396:5" rendition="simple:additions"/> be a Reſurrection of the Body, both of the Juſt and Unjuſt, that is not attained already or immediately after Death, but it is to be attained unto in the Time appointed of God, called <hi>The Day of Judgment.</hi> And ſeeing our Friends in <hi>England</hi> have fully anſwered to all theſe falſe Accuſations of <hi>Thomas Hicks</hi> and <hi>John Faldo,</hi> with whom <hi>Christian Lodowick</hi> hath joyned, we refer to their Anſwers, for the further Satisfaction of them who deſire to have it.</p>
+            <p>And it is falſly charged upon us by <hi>Chriſtian Lodowick</hi> in his Papers, <hi>That according to our Principle, all Honeſt and Conſcientious</hi> Heathens <hi>or</hi> Gentiles, <hi>who have not the Knowledge and Faith of Chriſt crucified outwardly, and riſen again,</hi> &amp;c. <hi>and</hi> Jews <hi>and</hi> Mahometans <hi>are in Chriſt as well as we, and true Christians, Believers, &amp;c.</hi> Nor doth this follow by any juſt Conſequence from our Principles; for though we do affirm, That all Conſcientious and Honeſt <hi>Gentiles,</hi> ſuch as <hi>Cornelius</hi> was before the Faith of Chriſt was preached to him, have ſome meaſure of Light, from Chriſt, to enlighten them, and are under ſome Adminiſtration of the Spirit, yet it is but the firſt Miniſtration, until the Knowledge and Faith of Chriſt, as he dyed for our ſins, and roſe again, <hi>&amp;c.</hi> be ſpiritually received; and ſuch who have the true and ſaving Knowledge and Faith of Chriſt, as he dyed and roſe again without them, ſpiritually receiving it by the Light and Spirit of Chriſt in them, and wrought in them by that mighty Power that raiſed Jeſus our Lord from the dead, and which conformeth them to Chriſt, in the like Virtues of Love, Patience, Humility, Reſignation, <hi>&amp;c.</hi> ſo as to love Enemies, are only Chriſtians, and Sons of God, of the Free Woman, having received the Spirit of Adoption, whereby they cry <hi>Abba, Father;</hi> but who have not this Faith of Chriſt crucified and raiſed again outwardly, ſpiritually received and wrought in them by the Spirit of Chriſt, whether they have or have not heard Chriſt outwardly preached unto them, are at beſt (however juſt and conſcientious to the juſt Principle of God in them) not under the Second, and more peculiar Miniſtration of Gods Spirit, that maketh men worthy to be eſteemed Chriſtians, but are only under the firſt, and ſuch are <hi>held under the Cuſtody or Safeguard of thhe Law, ſhut up unto the Faith that is afterwards to be revealed,</hi> as <hi>Paul</hi> hath declared, <hi>Gal.</hi> 3.23. and the ſtate they are in under this firſt Mi<g ref="char:EOLhyphen"/>niſtration, is to them as the City of Refuge was to the Man-ſlayer
+<pb n="7" facs="tcp:171396:5"/> under the Law, and whereof it was a Tipe: And this firſt Mini<g ref="char:EOLhyphen"/>ſtration of the Law and Light in them, (that anſwereth to <hi>Moſes</hi> and the Prophets, and to <hi>John,</hi> who are faithful and conſcientious under it) prepareth them to receive the Knowledge and Faith of Chriſt crucified and raiſed again, and fitteth them for the Second Miniſtration of the Spirit, that bringeth them to witneſs the Spirit of Adoption, and the Anointing that maketh them true <hi>Chriſtians,</hi> and conformeth them to Chriſt in the like Virtues, ſo as to love Enemies, and lay down the Life for Enemies, which is more than meer honeſt conſcientious <hi>Gentiles,</hi> who have not the Faith of Chriſt crucified and raiſed again, can do.</p>
+            <p>And whereas the ſaid <hi>Christian Lodowick</hi> doth further accuſe us, <hi>That what we ſay we know of the Scriptures, we ſhould have known, if it had never been writ, according to our Principle.</hi> This is f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſly charged upon us, as many other things in his Papers; for though we believe and ſay, that ſome things declared in Scripture, we ſhould have known, if they had not been writ, as that there is a God, the Creator and Lord of Heaven and Earth, that requireth us and all men, by his Law and Light in us, to live ſoberly and righteouſly, and to fear, love and worſhip him, and divers other general things, of great uſe and ſervice to men, according to <hi>Paul's</hi> Doctrine; <hi>For the Inviſible Things of God, even his Eternal Power and Godhead are clearly ſeen, being underſtood by the things that are made, ſo that they are without Excuſe; for what is to be known of God is manifeſt within them;</hi> yet the peculiar Doctrines and Myſteries of the Chriſtian Faith, as that Chriſt ſhould be born of a Virgin, dye for our ſins, and riſe again, and that he is both God and Man, and many other the like peculiar Myſteries of the <hi>Chriſtian Faith,</hi> we do acknowledge, and have alwayes acknowledged, that the Doctrine of the holy Scriptures, as outwardly preached to us by holy Men, or as Read by us in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he holy Scriptures, or having outward<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y heard theſe things, have been Inſtrumental, by and to<g ref="char:EOLhyphen"/>gether with the Immediate working of the Spirit of God, to beget in us the Know<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edge and Faith of them, and we deſire to bleſs God for the benefit of the h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly Scriptures given us, being able to make us wiſe unto Salvation, through Faith in Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſt Jeſus; but that we prefer the Spirit to the Letter, we are not aſhamed to own before all men, and that God and Chriſt and the
+<pb n="8" facs="tcp:171396:6"/> Spirit, whom they teſtifie of, are above the Scriptures, and greater than they, we do freely acknowledge; for all outward Teſtimonies, Means, Inſtruments and Helps, ſuch as the holy Scriptures, and all outward Preaching, and Men, and Books, are but Servants to God and Chriſt, but God and Chriſt are Lord, and Maſter, and King overall, to whom be Glory and Honour forever and ever.</p>
+            <p>And as to the final ſtate of all honeſt and conſcientious <hi>Gentiles,</hi> who have not had Chriſt outwardly preached unto them either by the Miniſtry of Men or the holy Scriptures, it ſufficeth us to believe that God is not wanting to them, and it is one God, who is the God both of <hi>Chriſtians</hi> and <hi>Gentiles,</hi> and who ſhall juſtifie the Cir<g ref="char:EOLhyphen"/>cumciſion by Faith, and the Uncircumciſion through Faith, <hi>Rom.</hi> 3.30. and it is no greater, nor other difficulty to underſtand how Honeſt and Conſcientious <hi>Gentiles</hi> can be ſaved by <hi>Chriſt Jeſus of Nazareth,</hi> than how Infants, and Deaf and Dumb Perſons, ſo born, can be ſaved, which our Adverſaries generally acknowledge, and there<g ref="char:EOLhyphen"/>fore they can have no advantage againſt us in that reſpect.</p>
+            <list>
+               <item>
+                  <hi>Edward Thurſtan,</hi>
+               </item>
+               <item>
+                  <hi>Joſeph Nicholſon,</hi>
+               </item>
+               <item>
+                  <hi>Henry Bull,</hi>
+               </item>
+               <item>
+                  <hi>Daniel Gould,</hi>
+               </item>
+               <item>
+                  <hi>Anne Bull,</hi>
+               </item>
+               <item>
+                  <hi>Jacob Mott,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Cornwall,</hi>
+               </item>
+               <item>
+                  <hi>Walter Clark,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Roadman,</hi>
+               </item>
+               <item>
+                  <hi>Rob Hutchins</hi>
+               </item>
+               <item>
+                  <hi>George Keith,</hi>
+               </item>
+               <item>
+                  <hi>John Eaſton,</hi>
+               </item>
+               <item>
+                  <hi>Ebenezer Slocum.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="testimonies">
+            <pb n="9" facs="tcp:171396:6"/>
+            <head>Here followeth ſome Teſtimonies Collected out of the Writings of our Antient Friends, giving ſome account of their Faith and Belief.</head>
+            <p>
+               <hi>The Principles of Truth,</hi> by <hi>John Crook &amp;c.</hi> p: 3, to 18.</p>
+            <p>MAny are the Reports that are abroad concerning this People, not only as to their <hi>Practices</hi> and <hi>Deportments,</hi> but alſo as to <hi>Doctrines</hi> and <hi>Beliefs.</hi> The former time having reſolved and worn out, as being the Refuge of Lyes; but tho' the firſt be gone, yet the latter ſticks with many, as not knowing what they hold as to Doctrine, ſome ſaying, <hi>They deny the Scripture, and the Reſurrection of the Body, and all Ordinances, with the Man Chriſt, and his Death and Sufferings, and Imputation of his Righteouſneſs, and Faith in his Blood, &amp;c.</hi> Wherefore for the Satisfaction of all that would willing<g ref="char:EOLhyphen"/>ly be reſolved, and know the Truth, I have written this ſhort Ac<g ref="char:EOLhyphen"/>count of their Faith and Belief.</p>
+            <p n="1">1ſt. We believe, That the God of all Grace has given a meaſure of Grace, or ſome Manifeſtation of his Spirit and Light thereof unto all men, who at ſome time or other do feel ſomething in their Hearts and Conſciences, that doth luſt againſt the Fleſh, and the Fleſh againſt it, and that theſe two are contrary the one to the other, one luſting after Evil, which is Evil, and the other after good, which is good.</p>
+            <p n="2">2dly, We believe, by this Gift, Grace and Inſpiration of the Al<g ref="char:EOLhyphen"/>mighty, man only can come to know the true God truly, what he is, and how he works in the Hearts and Conſciences of People, to re<g ref="char:EOLhyphen"/>generate them, and make them bear his Image.</p>
+            <p n="3">3. We believe, That all the Errors and Miſtakes about God, and the things relating to his Kingdome, ſprang and aroſe from mens wandering from this Gift of God, into their own Imaginations.</p>
+            <p n="4">4. We believe and know, That this Gift and Grace of God ap<g ref="char:EOLhyphen"/>pears in and unto all men, that all may be without excuſe, accuſing for the Evil, and excuſing for the good, <hi>Rom.</hi> 2.15.</p>
+            <p n="5">5. We believe, That whereſoever the Power of God is not known within, there the Goſpel is hid and unknown.</p>
+            <p n="6">
+               <pb n="10" facs="tcp:171396:7" rendition="simple:additions"/>6. Through this Gift, we believe, That Chriſt Jeſus, the Son of God, was manifeſt in the Fleſh in the fullneſs of Time: and this we know, by the ſame Spirit by which our Fathers believed he ſhould come, and <hi>Abraham</hi> ſaw his Day, by the ſame we do believe he is come, and do ſee his Day, as alſo by the Prophets and Apoſtles Wri<g ref="char:EOLhyphen"/>tings, which <hi>Two-ſold Cord is not eaſily broken.</hi>
+            </p>
+            <p n="7">7. We believe alſo, That this ſame <hi>Jeſus</hi> hath God highly exalted and given him a Name above every Name, that whoſoever believes on him ſhall not periſh, but have Everlaſting Life, and that there is not another Name, whereby any can be ſaved, than this Name of <hi>Jeſus Chriſt:</hi> Nor is Remiſſion of ſins to be preached by any other Name.</p>
+            <p n="8">8. We believe, That this Jeſus dyed for or becauſe of ſin, and roſe again for the Juſtification of thoſe that believe in him, and that he thereby ſpoiled Principalities and Powers, and triumphed over them openly, and led Captivity captive in his own Perſon — It is not a Belief from the Letter only, that can give a man the ſaving Know<g ref="char:EOLhyphen"/>ledge of the Death of Chriſt, but he muſt have the ſame Power, in meaſure, working in him, to beget Faith in his Heart, that he may believe unto Salvation, as well as confeſs with his Mouth: And this man whoever he be, Bond or Free, that thus believes the Death of Chriſt, and its Satisfaction to God, cannot make it void, nor divide it, but will ſay, <hi>Here is a dying man, witneſſing the Death of Chriſt, and nevertheleſs the ſame man living with Chriſt,</hi> and concluding, <hi>if Chriſt had not dyed, man muſt have periſhed in his Sin;</hi> This being the way found out by God to recover him.</p>
+            <p n="9">9. By this Gift of God in our hearts, we further believe, That Chriſt Jeſus roſe again from the dead, and ſits at Gods right Hand in a glorious Body. And we believe, that our low Eſtates and humble Bodies ſhall be made like unto his glorious Body, th ough the work<g ref="char:EOLhyphen"/>ing of his mighty Power, whereby he is able to ſubdue all things unto himſelf; and that this Mortality ſhall put on Immortality. — And we believe, that Regeneration, or the believing in the Light of Chriſt within, doth not make void the Death and Sufferings of Chriſt without at <hi>Jeruſalem,</hi> no more than believing the Scripture Teſtimony without, concerning Chriſts Death, makes void the Work of Regeneration &amp; Mortification within; but as the Apoſtle ſaith in another caſe, ſo I ſay in this, <hi>For as the Man is not without
+<pb n="11" facs="tcp:171396:7"/> the Woman, neither is the Woman without the Man in the Lord:</hi> even ſo is not the Death and Sufferings of Chriſt without at <hi>Jeruſalem,</hi> to be made void, and of none effect, by any thing within; neither doth the <hi>Light within</hi> make th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of none effect without, but both in the Lord anſwers his Will: For, though there is, and may be a Know<g ref="char:EOLhyphen"/>ledge and Belief of what Chriſt did and ſuffered without the Gates, in his own Body upon the Tree, and yet ſin alive in the Heart, and the Work of Regeneration not known; yet it can't be ſo where the Light within is believed on, ſo as to have its perfect Work in the Heart, to regenerate and make all things New, and to be of God; this man can never make void what Chriſt hath done and ſuffered without: And yet this New Birth, or Chriſt formed within, and dwelling the heart by Faith, doth not limit or confine Chriſt to be only within, and not without alſo, but both within and without, according to the good pleaſure of the Father to reveal &amp; make him known; for he filleth all things, and the Heaven of Heavens cannot contain him, and yet is he at God's Right Hand, far above all Hea<g ref="char:EOLhyphen"/>vens, in a Glorious Body.</p>
+            <p n="10">10. And we alſo believe the Reſurrection of the Juſt and Unjuſt, the one to Salvation, and the other to Condemnation, according to the Judgment of the <hi>Great Day,</hi> and then ſhall every Seed have its own Body; for if the Dead riſe not, we are of all men moſt miſer<g ref="char:EOLhyphen"/>able. But becauſe we dare not be ſo fooliſhly inquititive, as to ſay, With what Bodies do they ariſe, therefore do ſome ſay, <hi>We deny both the Reſurrection of the Body of Chriſt, and of all that are or ſhall be Dead:</hi> But this alſo is falſe; for <hi>every man ſhall be raiſed in his own Order, but Chriſt the firſt Fruits,</hi> 1 Cor. 15.23. And we believe they ſhall be raiſed with the ſame Bodies, ſo far as Natural and Spiritual, Corruptible and Incorruptible, Terreſtrial and Coeleſtial can be the ſame.</p>
+            <p>Pag. 40. of the ſame Book, by <hi>E. Burrough,</hi> And we believe, Even He that was Dead is alive, and lives for evermore; and that he Co<g ref="char:EOLhyphen"/>meth, and <hi>ſhall Come again</hi> to Judge the whole World with Righte<g ref="char:EOLhyphen"/>ouſneſs, and all People with Equity, and ſhall give to every man according to his Deeds at the <hi>Day of Judgment,</hi> when all ſhall ariſe to Condemnation or Juſtification, he that hath done good ſhall re<g ref="char:EOLhyphen"/>ceive Life; and he that hath done evil, everlaſting Condemnation.</p>
+            <p>
+               <hi>Teſtimony for the Man Chriſt Jeſus,</hi> pag. 4. cites <hi>W. Penn,</hi> where
+<pb n="12" facs="tcp:171396:8" rendition="simple:additions"/> he ſpeaks in the Name and Perſon of the <hi>Quakers,</hi> thus, <hi>We do believe the Man Chriſt Jeſus to be glorified in Heaven: We do believe that holy Manhood to be glorified in heavenly Glory.</hi> See now how far the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> are from denying the true and real Manhood of Chriſt in Hea<g ref="char:EOLhyphen"/>ven, or diſowning <hi>Jeſus of Nazareth</hi> to be the Meſſiah. And we further add and confeſs, That the <hi>Same Man</hi> Chriſt Jeſus, that ſuf<g ref="char:EOLhyphen"/>fered and was put to Death in the Fleſh, and raiſed from the dead by the mighty Power of God, aſcended into Heaven, Gods dwelling place, aſcended both as to a change of Place and ſtate of Glory: He is highly exalted in Power and Authority. Pag. 7. We have al<g ref="char:EOLhyphen"/>ways believed &amp; owned the Man Chriſt Jeſus, according to the plain Hiſtory of him in Holy Scripture, as namely, That he was miracu<g ref="char:EOLhyphen"/>louſly conceived by the holy Ghoſt overſhadowing the Virgin <hi>Mary,</hi> that he lived an innocent &amp; ſinleſs Life, preacht powerfully, wrought Miracles, was crucified and put to Death, as concerning the Fleſh, buried and roſe again the 3d day, and was ſeen of his Diſciples and many Brethren after he aroſe; and that the <hi>Same Body</hi> that was put to Death, was raiſed by the Power of God, &amp; was a real Body really ſeen both before and after his Reſurrection, and at his aſcention alſo. So we confeſs the <hi>ſame Man Chriſt,</hi> not only to be ſtill in being, but alſo glorified, and his Body to be a <hi>glorious heavenly</hi> and <hi>ſpiritual Body.</hi> And as to his being Man, <hi>We have one Mediator between God and Man, even the Man Chriſt Jeſus,</hi> 1 Tim. 2. <hi>And God will judge the World in Righteouſneſs by that</hi> MAN <hi>whom he hath ordained, whom he hath raiſed from the Dead,</hi> Acts 17.31. So th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t this MAN Chriſt did neither Vaniſh nor Periſh in any thing Eſſential to him,<note place="margin">☞</note> either as to his SPIRIT, SOUL or BODY, but is highly exalted and glorified. P. 12. But if we ſhall be changed as to our low Body, and faſhioned into a glorious and ſpiritual ſtate, then is Chriſt as to his Body changed or tranſlated into a far more glorious State than what it had when on Earth P. 13. as for thoſe Objections againſt the Man Chriſt his being in Heaven, they are of <hi>W. Harworth</hi>'s own framing, and not the <hi>Quakers;</hi> for where did they ever thus argue, <hi>viz.</hi> Epheſ. 4.10. <hi>The Apoſtle ſaith he aſcended far above all Heavens,</hi> ergo, <hi>Christ is not in Heaven as to his</hi> MANHOOD: Let him ſhew us that Book or Diſpute wherein we have this Argument, if he can. Again, 1 Cor. 15. <hi>Fleſh &amp; Blood cannot enter into the Kingdom of Hea<g ref="char:EOLhyphen"/>ven:</hi> Where do the <hi>Quakers</hi> argue from hence, that therefore Chriſt
+<pb n="13" facs="tcp:171396:8" rendition="simple:additions"/> is not there, as to his Manhood: Let him produce Book &amp; page for this, or forever be aſhamed.—His Reaſons to prove <hi>Chriſt now a Man in Heaven,</hi> do not reach nor touch us, the thing not being deny'd, but really believed and Confeſſed unto by us.</p>
+            <p>
+               <hi>Malice of the Indep. Agent again rebuked,</hi> p. 17. The terms <hi>Natural</hi> and <hi>Earthly,</hi> as given to the glorious Body of Chriſt, were and are offenſive to us—It muſt needs be a very glorious heavenly Body; and we believing ſuch a change in the glorious Body of Chriſt, we do not thereby, (nor ever did) believe that the Body of Chriſt which ſuffered was annihilated, &amp; that his Fleſh ſaw Corruption: No ſuch matter: May there not be then a very wonderful change in the Body and yet the Subſtance not annihilated nor deſtroy'd; nor does it fol<g ref="char:EOLhyphen"/>low from our not believing nor owning his Characters (of <hi>natural</hi> &amp; <hi>earthly</hi>) on Chriſts glorious Body, that therefore nothing of that Bo<g ref="char:EOLhyphen"/>dy remains or is in being. P. 19. As if we allowed nothing of the Man Chriſt, either of Spirit or Body, to have a being (after his Re<g ref="char:EOLhyphen"/>ſurrection) to aſcend; which is a horrid falſhood; for though it was changed, and became excellent, refined and glorious, yet it follows not that it was annihilated.— Though Chriſt be God and Man in a moſt glorious Union and Power, yet the Manhood is not the Deity, nor the Deity the Manhood, yet inſeperable in the heavenly Man, Chriſt, who is Lord from Heaven.</p>
+            <p>Pag. 23. Poſtſcript by <hi>George Whitehead,</hi> in anſwer to <hi>W. H</hi>'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eries. Q. <hi>I do but Query, what is become of that Fleſh wherein He, (i. e.</hi> Chriſt) <hi>was manifested? Is that Fleſh now in being? if ſo, where is it? in every place, or circumſcribed in Heaven? Anſw.</hi> That Fleſh ſaw no Corruption, but was raiſed from the dead: Chriſt did riſe in that Body wherein he ſuffered, and in the ſame aſcended into the Heavens, where the Patriarch <hi>David</hi> did not, as to his Body, which is in the Sepulchre, <hi>Acts</hi> 2.29. And that very Body of Chriſt which was raiſed from the dead, how ſhould it but be in being, ſeeing he dyed not again, according to <hi>Rom.</hi> 6.9. <hi>knowing Christ being raiſed from the dead, dyeth no more,</hi> Death hath no more dominion over him: his dying was only as to the Body, he was put to Death as concern<g ref="char:EOLhyphen"/>ing the Fleſh, therefore the Fleſh was raiſed from the dead. And it is ſo far circumſcribed or encompaſſed in the Heavens as 'tis capable of, and as is proper to it; and tho' it be ſpiritual and glorious, yet a Body, and therefore not in every place where God is: To be Om<g ref="char:EOLhyphen"/>nipreſent
+<pb n="14" facs="tcp:171396:9" rendition="simple:additions"/> is only proper to God, and not to Bodies.</p>
+            <p>Q. <hi>How do they but deny the Manhood o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſt, that ſay, the Body of Jeſus is changed as to Subſtance, and his Soul is in every Saint? Anſw.</hi> 1ſt, They do not deny the Manhood of Chriſt, that ſay, his Body is changed, as to the Quality and Glory of it, that it is a ſpiritual glori<g ref="char:EOLhyphen"/>ous Body, in a higher ſtate than when on Earth under Sufferings: This is no annihilating of the Body: 2ly. That his Soul doth power<g ref="char:EOLhyphen"/>fully extend to, and is in every Saint, in ſome ſence and degree: This muſt needs be, if it act tog<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther in Union with the Deity, in perfecting all good in us, as our Adverſary has confeſſed, as alſo that it is virtually in the Saints: Tho' we grant, that it is in more fullneſs in himſelf than in as, yet of his fullneſs have we all received.</p>
+            <p>Q. <hi>They own, they ſay, the real Birth, Sufferings and Reſurrection of Christ, but do they own his Interceſſion in his Manhood, as an high Prieſt in Heaven? Anſ.</hi> Yes, we do; he is entred into Heaven it ſelf, to appear in the face of God for us.—<hi>Note,</hi> That we referred him for a more full anſwer than we have given about Chriſts Manhood, to a Book entituled, <hi>The Way cast <g ref="char:V">Ʋ</g>p,</hi> by <hi>G. Keith.</hi>
+            </p>
+            <p>
+               <hi>The real Quaker a real Proteſtant,</hi> by <hi>G Whitehead,</hi> p. 105, 106. Prieſt ſays, <hi>That two of his Neighbour</hi> Quakers <hi>told him, That Chriſts Body did vaniſh at his aſcention, and that now he hath no other Fleſh or Body, but the Fleſh or Body of his People. Anſ.</hi> I deny it to be the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> mind that Chriſts Body did vaniſh (ſo as to become annihilated) at his aſcention: 'twas changed, and more glorified, but not vaniſht. I am ſenſible that none in their right underſtanding or ſence, would give him any ſuch miſtaken anſwer or account concerning the Body of Chriſt, that it ſo vnniſht as to become annihilated.—Chriſt has a glorious Body, moſt near and proper to himſelf, above and more excellent than all our earthly Bodies, like unto which he will change our low &amp; humble Bodies.—P. 119. Chriſt hath a true and ſpiritual glorious Body, whereof the Saints are Members.</p>
+            <p>Pag. 108. Pr. <hi>The</hi> Qrs. <hi>do believe, that Chriſt, God Man, did never purchaſe the Redemption of any ſinners by the price of his own Blood.</hi> Anſ. We believe that Chriſt as Mediator, hath obtain'd eternal Redemp<g ref="char:EOLhyphen"/>tion for us, and that by his own Blood, that we might be ſanctified &amp; redeemed from all Iniquity, for which end he gave himſelf for us.</p>
+            <p>Pr. <hi>The</hi> Qrs. <hi>believe that deliverance from Condemnation is not by be<g ref="char:EOLhyphen"/>lieving in Chriſt who dyed to ſave Sinners, but by obeying the Light within. Anſw.</hi> This is a Forgery again: Chriſt &amp; his Light within are not
+<pb n="15" facs="tcp:171396:9" rendition="simple:additions"/> to be divided in matter of Faith or Salvation: We never oppoſed Chriſt who dyed for Sinners, or Faith in his Name, by believing or obeying the Light within.</p>
+            <p>
+               <hi>Judgment fixt,</hi> by <hi>G. Whitehead,</hi> in anſwer to <hi>Jeffery Bullock,</hi> viz. <hi>You</hi> (Quakers) <hi>do preach both Salvation and Juſtification, and alſo Con<g ref="char:EOLhyphen"/>demnation by the man Christ the Son of God, as other Profeſſions do, and this Doctrine I would have you to prove, becauſe you preach Salvation by Chriſt the Light within. It is no where written that we ſhall either be juſtified or condemned by that Chriſt which dyed without the Gates of</hi> Je<g ref="char:EOLhyphen"/>ruſalem, <hi>but it is written,</hi> by Grace are ye ſaved, <hi>and</hi> by the Light of the World are ye condemned, <hi>&amp;c. Anſ.</hi> Thou that canſt not recon<g ref="char:EOLhyphen"/>cile (or ſee the conſiſtency of) Salvation by the Man Chriſt Jeſus, And by his Light within, art gone from his Light, into Imaginations. Why haſt thou not better obſerv'd the Goſpel preacht by the Angel of the Lord, to the Shepherds concerning <hi>Chriſt Jeſus, For unto you is born this day, in the City of</hi> David, <hi>a Saviour, which is Chriſt the Lord.</hi> The true Chriſt of God is but one, tho' he hath appeared in divers man<g ref="char:EOLhyphen"/>ners, both in the Fleſh and in the Spirit; he is the Light, he is the Way to the Father, he is the Saviour, he is the one Mediator between God and Man, even the <hi>Man Chriſt Jeſus,</hi> the heavenly glorious Man, the Man that was promiſed to be for a hiding place, who in the days of his fleſh ſaid, <hi>I am the Light of the World:</hi> This our one Lord Jeſus Chriſt is our Light, Life and Salvation; he is Judge of quick and dead, that Man by whom God will judge the World in Righteouſ<g ref="char:EOLhyphen"/>neſs. See alſo <hi>Tit.</hi> 2.11. where the ſaving Grace of God, and our Saviour Jeſus Chriſt, who gave himſelf for us, that he might redeem us from all Iniquity, <hi>&amp;c.</hi> are teſtified of; &amp; therefore Salvation by that Chriſt, through hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grace, are not inconſiſtent, pag. 326.</p>
+            <p>
+               <hi>Fleſh &amp; Blood of Chriſt,</hi> by <hi>I Pennington, (Preface)</hi> I have often heard them <hi>(the Quakers)</hi> own Chriſt both inwardly &amp; outwardly; yea, I heard one of the Antients of them thus teſtifie in a publick Meeting many years ſince, <hi>That if Chriſt had not come in the Fleſh in the fullneſs of time, to bear our ſins in his own Body on the Tree, and to offer himſelf up a Sacrifice for Mankind, all mankind had utterly periſhed.</hi> p. 16. Glori<g ref="char:EOLhyphen"/>ous was that appearance and manifeſtation of his Son in the fleſh, precious his Subjection &amp; holy Obedience to the Father: His giving himſelf up to death for ſinners was of great eſteem in his Eye: It was a ſpotleſs Sacrifice, of great value, and effectual for the Remiſſion of ſins, and I do humbly acknowledge unto the Lord the Remiſſion of my ſins thereby.</p>
+            <pb n="16" facs="tcp:171396:10" rendition="simple:additions"/>
+            <p>
+               <hi>Rob. Barclay</hi>'s <hi>Apology,</hi> p. 94, 95, 96. We do not intend to equal our ſelves to that holy Man, the Lord Jeſus Chriſt, in whom all the fullneſs of the Godhead dwells bodily, nor to deſtroy the reality of his preſent exiſtence; for tho' we affi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m that Chriſt dwells in us, yet not immediately, but mediately; he is the Head, and we the Mem<g ref="char:EOLhyphen"/>bers; now as the Soul of man dwells other ways, and in a far more immediate manner in the Head and Heart, than in the hands or legs; ſo God dwelleth otherwiſe in the Man Jeſus, than in us. We alſo freely reject the Hereſie of <hi>Appollonarius,</hi> who deny'd him to have any <hi>Soul,</hi> but ſaid, <hi>the Body was only acted by the Godhead.</hi> As alſo the Er<g ref="char:EOLhyphen"/>ror of <hi>Euryches,</hi> who made <hi>the Manhood to be wholly ſwallowed up of the Godhead;</hi> wherefore as we believe he was a true and real man, ſo we alſo believe, that he continues ſo to be glorified in the Heavens, in <hi>Soul</hi> and <hi>Body,</hi> by whom God ſhall judge the World in the Great and General Day of judgment. We believe all thoſe things to have been certainly tranſacted, which are recorded in the holy Scriptures, con<g ref="char:EOLhyphen"/>cerning the Birth, Life, Miracles, Sufferings, Reſurrection &amp; Aſcention of Chriſt, and we alſo believe, that it is the Duty of every one to be<g ref="char:EOLhyphen"/>lieve it, to whom it pleaſes God to reveal it; yea, we believe it were <hi>Damnable <g ref="char:V">Ʋ</g>nbelief</hi> not to believe, when ſo declared. And we be<g ref="char:EOLhyphen"/>lieve that the Remiſſion of ſins, which any partake of, is only in and by virtue of that moſt ſatisfactory Sacrifice, and no otherwiſe.</p>
+            <p>
+               <hi>His Vindication of Apology,</hi> p. 89. I do believe that the Body of our Lord Jeſus Chriſt, which was crucified at <hi>Jeruſalem,</hi> was again raiſ<g ref="char:EOLhyphen"/>ed by the Power of God, in which glorified Body the Lord Jeſus Chriſt dwelleth. Pag. 189. We are falſly charged with denying the outward appearance of Chriſt, the real exiſtence of Heaven and Hell as a place without us, the Laſt and General Judgment, the Reſur<g ref="char:EOLhyphen"/>rection of the Body; for we really believe theſe things.</p>
+            <p>Much more might have been cited out of the Writings of our An<g ref="char:EOLhyphen"/>tient Friends, but this may ſuffice at this time to convince our Op<g ref="char:EOLhyphen"/>poſers, that it hath been, and is, the firm Belief of the People call'd <hi>Quakers,</hi> to expect Salvation by the Man Chriſt Jeſus, who was born of the Virgin <hi>Mary,</hi> was crucified for our ſins, and roſe again for our Juſtification, aſcended into Heaven, and ever liveth to make Inter<g ref="char:EOLhyphen"/>ceſſion for us. <hi>Faithfully Collected, and Recommended to puruſal, by</hi>
+            </p>
+            <closer>
+               <signed>Will. Bradford.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171396:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
